@@ -4,7 +4,5 @@
 - 💞️ I'm looking to collaborate on opensource projects and maybe find a job
 - 📫 To contact me, here are my linkedin and Email: 
 
-
-          [Linkedin:Josuecpn](https://www.linkedin.com/in/josu%C3%A9-cordeiro-pinto-neto-097128122/)
-
-          josuecpn93@gmail.com
+[Linkedin:Josuecpn](https://www.linkedin.com/in/josu%C3%A9-cordeiro-pinto-neto-097128122/)
+josuecpn93@gmail.com
