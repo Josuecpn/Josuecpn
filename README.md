@@ -1,4 +1,4 @@
-- Hi, I’m Josué
+- My name is Josué
 - I’m interested in programation and music
 - I’m currently learning Python and Django.
 - I'm looking to collaborate on opensource projects and find a job
