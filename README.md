@@ -1,5 +1,5 @@
 - My name is Josué
-- I’m interested in programation and music
+- I’m interested in programmation and music
 - I’m currently learning Python and Django.
 - I'm looking to collaborate on opensource projects and find a job
 - To contact me, here is my linkedin and Email: 
