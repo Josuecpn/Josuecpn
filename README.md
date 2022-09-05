@@ -1,7 +1,8 @@
 - My name is Josué
 - I’m interested in programmation and music
+- I'm working with Java/Spring
 - I’m currently learning Python and Django.
-- I'm looking to collaborate on opensource projects and find a job
+- I'm looking for collaborate on opensource projects
 - To contact me, here is my linkedin and Email: 
 
 [Linkedin:Josuecpn](https://www.linkedin.com/in/josu%C3%A9-cordeiro-pinto-neto-097128122/) and josuecpn93@gmail.com
