@@ -1,5 +1,5 @@
 - My name is Josué
-- I’m interested in programmation and music
+- I’m interesting in programmation and music
 - I'm working with Java/Spring
 - I’m currently learning Python and Django.
 - I'm looking for collaborate on opensource projects
