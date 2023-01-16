@@ -1,7 +1,6 @@
 - My name is Josué
 - I’m interesting in programmation and music
 - I'm working with Java/Spring
-- I’m currently learning Python and Django.
 - I'm looking for collaborate on opensource projects
 - To contact me, here is my linkedin and Email: 
 
