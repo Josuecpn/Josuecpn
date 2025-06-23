@@ -17,6 +17,15 @@ Sou curioso e adoro aprender coisas novas, especialmente nas áreas de desenvolv
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 
+## Estudando
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josu%C3%A9-cordeiro-pinto-neto-097128122/)
