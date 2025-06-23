@@ -14,11 +14,11 @@ Sou curioso e adoro aprender coisas novas, especialmente nas áreas de desenvolv
 
 ## Tecnologias
 
+### 💼 Trabalhando com
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 
-## Estudando
-
+### 📚 Estudando
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
