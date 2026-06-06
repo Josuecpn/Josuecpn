@@ -1,36 +1,78 @@
-# Olá, eu sou Josué!
+# Hi, I'm Josué 👋
 
-Bem-vindo(a) ao meu perfil no GitHub!
+Welcome to my GitHub profile!
 
-## Sobre mim
+## About Me
 
-- Apaixonado por programação e música
-- Tenho o objetivo de trabalhar e me desenvolver como analista de dados
-- Buscando colaborar em projetos open source
+I'm a technology professional with over 4 years of experience in software development, database management, and web applications.
 
-## Minhas paixões
+Currently, I'm focusing my career on **Data Analytics**, combining my background in software engineering with data analysis, SQL, Python, and business insights.
 
-Sou curioso e adoro aprender coisas novas, especialmente nas áreas de desenvolvimento de software e música. Acredito que a tecnologia pode transformar vidas e estou sempre em busca de desafios para crescer como profissional e contribuir com a comunidade.
+I enjoy solving problems, exploring new technologies, and turning data into meaningful information that helps people make better decisions.
 
-## Tecnologias
+## What I'm Working On
 
-### 💼 Experiência com
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+📊 Building Data Analytics projects
 
-### 📚 Estudando
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+🐍 Improving my Python skills for data analysis
 
-## 📫 Contato
+🗄️ Deepening my knowledge of SQL and databases
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josu%C3%A9-cordeiro-pinto-neto-097128122/)
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:josuecpn93@gmail.com)
+📈 Learning Power BI and data visualization techniques
 
----
+🌎 Preparing for international opportunities in Data Analytics
 
-⭐️ Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
+## Technical Skills
+
+### Data Analytics
+
+* SQL (PostgreSQL)
+* Data Modeling
+* Data Analysis
+* Database Design
+* Excel
+* Python (Learning for Data Analytics)
+* Power BI (Learning)
+* Data Visualization
+
+### Software Development
+
+* Java
+* Spring Framework
+* JavaScript
+* jQuery
+* HTML5
+* CSS3
+* Git & GitHub
+
+### Currently Exploring
+
+* TypeScript
+* Next.js
+* Go
+* Rust
+* Cloud Technologies
+
+## My Mindset
+
+I'm naturally curious and enjoy learning across different areas of technology.
+
+While my current goal is to become a Data Analyst, I believe that understanding software development, databases, infrastructure, and emerging technologies helps me become a more complete professional.
+
+You'll find a mix of data projects, software development experiments, and learning repositories here.
+
+## Featured Goals for 2026
+
+* Build a strong Data Analytics portfolio
+* Publish SQL and Python projects regularly
+* Create interactive Power BI dashboards
+* Contribute to open-source projects
+* Continue learning and sharing knowledge
+
+## Connect With Me
+
+💼 LinkedIn: [www.linkedin.com/in/josuecpn/](http://www.linkedin.com/in/josuecpn/)
+
+📧 Email: [josuecpn93@gmail.com](mailto:josuecpn93@gmail.com)
+
+🐙 GitHub: github.com/Josuecpn
