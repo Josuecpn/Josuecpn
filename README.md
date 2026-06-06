@@ -1,12 +1,12 @@
-# Olá, eu sou Josué! 👋
+# Olá, eu sou Josué!
 
 Bem-vindo(a) ao meu perfil no GitHub!
 
 ## Sobre mim
 
-- 🎵 Apaixonado por programação e música
-- 💻 Atualmente trabalhando com **Java/Spring**
-- 🤝 Buscando colaborar em projetos open source
+- Apaixonado por programação e música
+- Tenho o objetivo de trabalhar e me desenvolver como analista de dados
+- Buscando colaborar em projetos open source
 
 ## Minhas paixões
 
@@ -14,7 +14,7 @@ Sou curioso e adoro aprender coisas novas, especialmente nas áreas de desenvolv
 
 ## Tecnologias
 
-### 💼 Trabalhando com
+### 💼 Experiência com
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 
