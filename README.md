@@ -13,6 +13,6 @@ Technology Professional with over 4 years in Software Development and Databases,
 - **Software**: Java, Spring, FastAPI, REST, Git, Linux.
 
 ## Connect
-💼 LinkedIn: [://linkedin.com](https://www.://linkedin.com)
+💼 LinkedIn: [https://www.://linkedin.com](https://www.linkedin.com/in/josuecpn/)
 📧 Email: josuecpn93@gmail.com
-🐙 GitHub: ://github.com
+🐙 GitHub: [https://www.://github.com](https://github.com/Josuecpn)
