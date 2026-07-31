@@ -11,8 +11,3 @@ Technology Professional with over 4 years in Software Development and Databases,
 ## Technical Skills
 - **Data/Auto**: SQL, PostgreSQL, Python (Pandas, BeautifulSoup), Data Mining.
 - **Software**: Java, Spring, FastAPI, REST, Git, Linux.
-
-## Connect
-💼 LinkedIn: [https://www.://linkedin.com](https://www.linkedin.com/in/josuecpn/)
-📧 Email: josuecpn93@gmail.com
-🐙 GitHub: [https://www.://github.com](https://github.com/Josuecpn)
